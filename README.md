@@ -1,5 +1,12 @@
 # 🤖 IT Purple Hack & Central Bank of Russia
 Building LLM-based RAG chat-bot for the Central Bank.
+<p align="center">
+  <a href="https://ibb.co/K7qbjKR">
+    <img src="https://i.ibb.co/5v8GWKt/Frame-9.png" alt="Frame-9" border="0">
+  </a>
+  <br>
+  <a target='_blank' href='https://ru.imgbb.com/'>картинки для в</a>
+</p>
 
 ## 🦸‍♂️ Team
 We are the finalists of this competition. 
