@@ -5,7 +5,7 @@ Building LLM-based RAG chat-bot for the Central Bank.
     <img src="https://i.ibb.co/5v8GWKt/Frame-9.png" alt="Frame-9" border="0">
   </a>
   <br>
-  <a target='_blank' href='https://ru.imgbb.com/'>Task Description</a>
+  <a target='_blank' href='https://ibb.co/K7qbjKR'>Task Description</a>
 </p>
 
 ## 🦸‍♂️ Team
